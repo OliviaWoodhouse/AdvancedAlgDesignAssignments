@@ -1,1 +1,1 @@
-# COMP360A1
+# AdvancedAlgDesignAssignments
